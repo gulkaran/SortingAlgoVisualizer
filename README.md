@@ -7,12 +7,11 @@ https://user-images.githubusercontent.com/82789205/146096829-deccc280-142d-469e-
 ## Instructions To Run Code
 To run this code, you need to have pygame installed. To do this you should already have pip installed. 
 
-If you don't have pip installed, do the following in CMD:
-```
-C:\Users\YourUser>python -m pip install -U pip
-```
+<br />
 
 Now we can install Pygame. Do the following in CMD: 
 ```
-C:\Users\YourUser>pip install pygame
+pip install pygame
 ```
+
+and your all set!
