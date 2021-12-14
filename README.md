@@ -13,5 +13,3 @@ Now we can install Pygame. Do the following in CMD:
 ```
 pip install pygame
 ```
-
-and your all set!
